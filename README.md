@@ -1,7 +1,7 @@
 # QuickScan-Bash-Script
 <img width="537" height="269" alt="image" src="https://github.com/user-attachments/assets/2f6e9b6d-8f41-4e14-b1dc-15ad9b88f9a1" />
 
-This script scan for all ports then do service enumeration scan for these port. Simple script, but saves much time.
+This script scans for all ports, then does a service enumeration scan for these ports. Simple script, but saves much time.
 # usage 
 ~~~sh
 quickscan.sh <Target-ip>
